@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Test"
-author: "Paul Le"
+author: "me"
 categories: journal
 tags: [documentation,sample]
 image: cutting.jpg
